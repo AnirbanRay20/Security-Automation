@@ -1,0 +1,9 @@
+Aug 14 02:00:11 fw01 sshd[1122]: Failed password for root from 203.0.113.5 port 51322 ssh2
+Aug 14 02:00:14 fw01 sshd[1123]: Failed password for root from 203.0.113.5 port 51330 ssh2
+Aug 14 02:06:02 fw01 sshd[1180]: Accepted password for appuser from 203.0.113.5 port 51402 ssh2
+Aug 14 02:07:01 app02 kernel: [FW-ACCEPT] OUT=eth0 SRC=10.0.2.20 DST=198.51.100.23 DPT=4444
+Aug 14 02:07:03 app02 kernel: [FW-ACCEPT] OUT=eth0 SRC=10.0.2.20 DST=198.51.100.23 DPT=4444
+Aug 14 03:15:44 fw01 kernel: [FW-DROP] IN=eth0 SRC=192.168.56.101 DST=10.0.1.10 DPT=22
+Aug 14 04:02:19 web01 nginx: 192.0.2.44 - - "GET /login HTTP/1.1" 200
+Aug 14 04:02:20 web01 nginx: 172.16.5.9 - - "GET /health HTTP/1.1" 200
+Aug 14 05:11:02 fw01 kernel: [FW-ACCEPT] OUT=eth0 SRC=10.0.1.10 DST=203.0.113.5 DPT=443

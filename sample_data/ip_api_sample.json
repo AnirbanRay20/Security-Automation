@@ -1,0 +1,26 @@
+{
+  "203.0.113.5": {
+    "status": "success",
+    "country": "United States",
+    "isp": "Example Hosting Ltd.",
+    "hosting": true,
+    "proxy": false,
+    "mobile": false
+  },
+  "198.51.100.23": {
+    "status": "success",
+    "country": "Netherlands",
+    "isp": "Example Cloud Provider B.V.",
+    "hosting": true,
+    "proxy": true,
+    "mobile": false
+  },
+  "192.0.2.44": {
+    "status": "success",
+    "country": "Germany",
+    "isp": "Example Consumer ISP GmbH",
+    "hosting": false,
+    "proxy": false,
+    "mobile": false
+  }
+}

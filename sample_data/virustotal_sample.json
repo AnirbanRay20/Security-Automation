@@ -1,0 +1,50 @@
+{
+  "203.0.113.5": {
+    "data": {
+      "id": "203.0.113.5",
+      "type": "ip_address",
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 7,
+          "suspicious": 2,
+          "undetected": 55,
+          "harmless": 24,
+          "timeout": 0
+        },
+        "last_analysis_date": 1755100800
+      }
+    }
+  },
+  "198.51.100.23": {
+    "data": {
+      "id": "198.51.100.23",
+      "type": "ip_address",
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 14,
+          "suspicious": 3,
+          "undetected": 48,
+          "harmless": 23,
+          "timeout": 0
+        },
+        "last_analysis_date": 1755100800
+      }
+    }
+  },
+  "192.0.2.44": {
+    "data": {
+      "id": "192.0.2.44",
+      "type": "ip_address",
+      "attributes": {
+        "last_analysis_stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 40,
+          "harmless": 48,
+          "timeout": 0
+        },
+        "last_analysis_date": 1755100800
+      }
+    }
+  }
+}
